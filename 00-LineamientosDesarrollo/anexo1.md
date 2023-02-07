@@ -23,24 +23,31 @@ En nuestro ejemplo, este proyecto de biblioteca de clases se denominará SharedK
 ## Services
 Proyecto que se encargara de invocar a los servicios de los cuales depende este proyecto para poder completar el flujo transaccional respectivo, como ejemplo en este proyecto deben estar las solicitudes al BtServices, NSBT, logs, otros.
 En nuestro ejemplo, este proyecto de biblioteca de clases se denominará Cnf.Services y dentro de este proyecto se creará las carpetas necesarias de acuerdo con la cantidad se integraciones entre servicios.
-Logs
+## Logs
 Proyecto que se encarga de gestionar el registro de logs de la aplicación.
 En nuestro ejemplo, este proyecto de biblioteca de clases se denominará Cnf.Logs y dentro de este proyecto se creará las carpetas, clases respectivas.
-Test
+## Test
 Es necesario la implementación de prueba unitarias de todo el proyecto, las pruebas unitarias o unit testing son una forma de comprobar que un fragmento de código funciona correctamente. Es un procedimiento más de los que se llevan a cabo dentro de una metodología ágil de trabajo.
-•	Las pruebas unitarias deberían ser independientes. Si se produce cualquier tipo de mejora o cambio en los requerimientos, las pruebas unitarias no deberían verse afectados.
-•	Prueba sólo un código a la vez.
-•	Sigue un esquema claro. Puede parecer algo secundario, pero no lo es. Sé también consistente a la hora de nombrar tus unit tests.
-•	Cualquier cambio necesita pasar el test. En el caso de producirse un cambio en el código de cualquier módulo, asegúrate de que hay una prueba unitaria que se corresponda con ese módulo y que este pasa las pruebas antes de cambiar la implementación.
-•	Corrige los bugs identificados durante las pruebas antes de continuar. Asegúrate de realizar esta corrección antes de proseguir con la siguiente fase del ciclo de vida del desarrollo de software.
-•	Acostúmbrate a realizar pruebas regularmente mientras programas. Cuanto más código escribas sin testar, más caminos tendrás que revisar para encontrar errores.
-Guía de Microsoft para la implementación de unit test en VS.
+- Las pruebas unitarias deberían ser independientes. Si se produce cualquier tipo de mejora o cambio en los requerimientos, las pruebas unitarias no deberían verse afectados.
+- Prueba sólo un código a la vez.
+- Sigue un esquema claro. Puede parecer algo secundario, pero no lo es. Sé también consistente a la hora de nombrar tus unit tests.
+- Cualquier cambio necesita pasar el test. En el caso de producirse un cambio en el código de cualquier módulo, asegúrate de que hay una prueba unitaria que se corresponda con ese módulo y que este pasa las pruebas antes de cambiar la implementación.
+- Corrige los bugs identificados durante las pruebas antes de continuar. Asegúrate de realizar esta corrección antes de proseguir con la siguiente fase del ciclo de vida del desarrollo de software.
+- Acostúmbrate a realizar pruebas regularmente mientras programas. Cuanto más código escribas sin testar, más caminos tendrás que revisar para encontrar errores.
+
+
+![Guía de Microsoft para la implementación de unit test en VS.]
+
+```bash
 https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest
+```
+
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.Test y dentro de este proyecto se creará las carpetas y clases respectivas.
-Message
+
+## Message
 Trata de la implementación de un servicio de mensajería que funciona como un middleware de mensajería, trabajando sobre el patrón productor / consumidor, para la implementación de este servicio se trabajara con RabbitMq que Implementa el estándar Advanced Message Queuing Protocol (AMQP).
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.Message y dentro de este proyecto se creará las carpetas y clases respectivas.
-Web
+## Web
 Proyecto que contiene los controladores (métodos) de la API respectivamente.
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.WebApi y dentro de este proyecto se creará las carpetas y clases respectivas.
 
