@@ -6,9 +6,9 @@ Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`
 
 ### 2. En el caso del sistema BANTOTAL se deben utilizar: 
 - Manual de Estándares de Programación BANTOTAL
-[PLANTILLA](./Documentos/ManualdeEstándaresdeProgramaciónBANTOTAL.pdf "Requerimientos")
+[DOCUMENTO](./Documentos/Manual de Estándares de Programación BANTOTAL.pdf "DOCUMENTO")
 - Manual de Nomenclatura de Programación BANTOTAL  
-[-> da clic aquí <-] (./EstandaresSegunProveedor/Manual de Nomenclaturas de Programación_BANTOTAL.pdf) 
+[DOCUMENTO](./Documentos/Manual de Nomenclaturas de Programación_BANTOTAL.pdf "DOCUMENTO") 
 
 ### 3. Para el dominio de Datos se deben seguir los documentos:
 - Estándares Nomenclatura DataBricks
