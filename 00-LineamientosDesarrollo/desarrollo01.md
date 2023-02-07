@@ -6,7 +6,7 @@ Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`
 
 ### 2. En el caso del sistema BANTOTAL se deben utilizar: 
 - Manual de Estándares de Programación BANTOTAL
-[-> da clic aquí <-] (./Documentos/EstandaresSegunProveedor/Manual de Estándares de Programación BANTOTAL.pdf) 
+[-> da clic aquí <-] (./Documentos/EstandaresSegunProveedor/Manual de Estándares de Programación BANTOTAL.pdf "aaa") 
 - Manual de Nomenclatura de Programación BANTOTAL  
 [-> da clic aquí <-] (./EstandaresSegunProveedor/Manual de Nomenclaturas de Programación_BANTOTAL.pdf) 
 
