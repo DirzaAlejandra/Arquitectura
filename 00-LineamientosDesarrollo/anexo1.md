@@ -5,8 +5,8 @@
 Debemos crear nuestro código con las capas del proyecto bien separadas e indicadas, comúnmente estas capas irán en forma de “librería” y deberán contener el nombre completo. ¿Esto que quiere decir?
 En nuestro ejemplo, estamos trabajando en un proyecto llamado CNF y dentro de la web cnf, la API está dentro de lo que hemos denominado como “WebApi” por lo tanto el nombre completo de la api será Cnf.WebApi.
 Y esto lo debemos hacer con TODOS nuestros proyectos, da igual en que “subproyecto” o apartado estemos ya que, de esa forma, introducimos una mayor claridad a la aplicación
-![Ejemplo de la Estructura del Proyecto]
-(./Images/Imagen1.png)
+
+![Ejemplo de la Estructura del Proyecto](./Images/Imagen1.png)
 
 ## Model
 Principalmente debemos crear nuestro código que sea lo menos dependiente posible.
