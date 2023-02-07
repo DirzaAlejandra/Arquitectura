@@ -8,7 +8,7 @@ Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`
 - Manual de Estándares de Programación BANTOTAL 
 - Manual de Nomenclatura de Programación BANTOTAL
 
-###3. Para el dominio de Datos se deben seguir los documentos:
+### 3. Para el dominio de Datos se deben seguir los documentos:
 - Estándares Nomenclatura DataBricks
 - Estándares nomenclatura Azure Synapse
 - Estrategia DataOps
