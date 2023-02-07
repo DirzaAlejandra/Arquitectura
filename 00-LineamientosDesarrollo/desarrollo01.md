@@ -4,4 +4,4 @@ El diseño deberá coordinarse con el Arquitecto de Soluciones, se habilita la a
 
 [siguiente](./desarrollo02.md)
 
-[Volver &ldca;](/desarrollo00.md "Regresar a Menu")
+[Volver &ldca;](/00-LineamientosDesarrollo/desarrollo00.md "Regresar")

@@ -1,26 +1,18 @@
-# Documentación, Manuales y Procedimientos a seguirse
+# Construcción del software
 
 
-### 1. La documentación de las aplicaciones y/o servicios debe realizarse según normativa interna: 
-Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`Proceso 5.03`).
+### 1. Control de versiones de código 
+- Las aplicaciones satélites a BANTOTAL, deben utilizar el repositorio oficial de código fuente del Banco.
+- Para código fuente que no es Genexus (Core Bantotal). Se deberá utilizar el repositorio oficial del Banco: GITLAB.
 
-### 2. En el caso del sistema BANTOTAL se deben utilizar: 
-- Manual de Estándares de Programación BANTOTAL
-[DOCUMENTO: ->clic aquí <-](./Documentos/Manual_de_Estándares_de_Programación_BANTOTAL.pdf "DOCUMENTO")
-- Manual de Nomenclatura de Programación BANTOTAL  
-[DOCUMENTO: ->clic aquí <-](./Documentos/Manual_de_Nomenclaturas_de_Programación_BANTOTAL.pdf "DOCUMENTO") 
 
-### 3. Para el dominio de Datos se deben seguir los documentos:
-- Estándares Nomenclatura DataBricks 
-[DOCUMENTO: ->clic aquí <-](./Documentos/Estándares_nomenclatura_Databricks_Estrategia_Datos.pdf "DOCUMENTO")
-- Estándares nomenclatura Azure Synapse
-[DOCUMENTO: ->clic aquí <-](./Documentos/Estándares_nomenclatura_Azure_Synapse_Estrategia_Datos.pdf "DOCUMENTO")
-- Estrategia DataOps
-[DOCUMENTO: ->clic aquí <-](./Documentos/Estrategia_DataOps_Estrategia_Datos.pdf "DOCUMENTO")
-- Estrategia de pruebas y QA
-[DOCUMENTO: ->clic aquí <-](./Documentos/Estrategia_de_pruebas_y_QA_Estrategia_Datos.pdf "DOCUMENTO")
+### Calidad de código fuente 
+En esta sección están descritos lineamientos con respecto a la calidad del código fuente. 
+ 
+Manejo de errores y excepciones
+Las excepciones deben ser identificadas y gestionadas mediante mecanismos del lenguaje (por ejemplo, throw*, try catch*), y evitar códigos de error internos y salidas del sistema no esperado.
+Se debe desarrollar el sistema, de forma tal, que aplique el principio de “falla segura”. Esto quiere decir que el sistema debe ser capaz de recuperarse automáticamente ante problemas tales como la desconexión de una base de datos, de un servicio Web o ante entradas de datos incorrectas por parte del usuario.
+Para todos los casos se debe:
 
-```bash
-La documentación que acompaña los desarrollos deberá almacenarse en el repositorio oficial del Banco: GITLAB.
-```
+
 [Volver &ldca;](/README.md "Regresar a página principal")
