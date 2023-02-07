@@ -2,7 +2,7 @@
 
 
 ### 1. La documentación de las aplicaciones y/o servicios debe realizarse según normativa interna: 
-Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones ([Proceso 5.03]).
+Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`Proceso 5.03`).
 
 ### 2. En el caso del sistema BANTOTAL se deben utilizar: 
 - Manual de Estándares de Programación BANTOTAL 
