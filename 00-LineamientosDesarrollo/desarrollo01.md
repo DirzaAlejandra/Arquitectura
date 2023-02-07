@@ -17,5 +17,5 @@ Git es un sistema de control de versiones distribuido, lo que significa que un c
 - Estrategia de pruebas y QA
 
 ```bash
-## La documentación que acompaña los desarrollos deberá almacenarse en el repositorio oficial del Banco: GITLAB.
+La documentación que acompaña los desarrollos deberá almacenarse en el repositorio oficial del Banco: GITLAB.
 ```
