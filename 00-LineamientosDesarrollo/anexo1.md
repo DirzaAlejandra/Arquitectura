@@ -5,7 +5,8 @@
 Debemos crear nuestro código con las capas del proyecto bien separadas e indicadas, comúnmente estas capas irán en forma de “librería” y deberán contener el nombre completo. ¿Esto que quiere decir?
 En nuestro ejemplo, estamos trabajando en un proyecto llamado CNF y dentro de la web cnf, la API está dentro de lo que hemos denominado como “WebApi” por lo tanto el nombre completo de la api será Cnf.WebApi.
 Y esto lo debemos hacer con TODOS nuestros proyectos, da igual en que “subproyecto” o apartado estemos ya que, de esa forma, introducimos una mayor claridad a la aplicación
-![Ejemplo de la Estructura del Proyecto](./images/Imagen1.png)
+![Ejemplo de la Estructura del Proyecto]
+(./Images/Imagen1.png)
 
 ## Model
 Principalmente debemos crear nuestro código que sea lo menos dependiente posible.
@@ -37,8 +38,8 @@ Es necesario la implementación de prueba unitarias de todo el proyecto, las pru
 - Acostúmbrate a realizar pruebas regularmente mientras programas. Cuanto más código escribas sin testar, más caminos tendrás que revisar para encontrar errores.
 
 
-### Guía de Microsoft para la implementación de unit test en VS.(
-https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest)
+### Guía de Microsoft para la implementación de unit test en VS.
+(https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest)
 
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.Test y dentro de este proyecto se creará las carpetas y clases respectivas.
 
