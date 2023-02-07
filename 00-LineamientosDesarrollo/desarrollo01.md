@@ -19,3 +19,4 @@ Gestión de Tecnología y Proceso, Desarrollo y Mantenimiento de Aplicaciones (`
 ```bash
 La documentación que acompaña los desarrollos deberá almacenarse en el repositorio oficial del Banco: GITLAB.
 ```
+[Volver &ldca;](/README.md "Regresar a página principal")
