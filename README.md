@@ -1,3 +1,3 @@
 # Arquitectura Lineamientos
 ### 0. Lineamientos Desarrollo
-- [Git y SSH keys](/00-LineamientosDesarrollo/desarrollo.md)
+- [Documentación, Manuales y Procedimientos a seguirse](/00-LineamientosDesarrollo/desarrollo01.md)
