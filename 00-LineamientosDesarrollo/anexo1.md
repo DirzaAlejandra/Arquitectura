@@ -37,9 +37,10 @@ Es necesario la implementación de prueba unitarias de todo el proyecto, las pru
 - Acostúmbrate a realizar pruebas regularmente mientras programas. Cuanto más código escribas sin testar, más caminos tendrás que revisar para encontrar errores.
 
 
-![Guía de Microsoft para la implementación de unit test en VS.]```bash
+### Guía de Microsoft para la implementación de unit test en VS.
+``bash
 https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest
-```
+``
 
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.Test y dentro de este proyecto se creará las carpetas y clases respectivas.
 
