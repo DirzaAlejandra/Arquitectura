@@ -39,7 +39,7 @@ Es necesario la implementación de prueba unitarias de todo el proyecto, las pru
 
 
 ### Guía de Microsoft para la implementación de unit test en VS.
-(https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest)
+https://learn.microsoft.com/es-es/visualstudio/test/getting-started-with-unit-testing?view=vs-2022&tabs=dotnet%2Cmstest
 
 En nuestro ejemplo, este proyecto de prueba unitarias se denominará Cnf.Test y dentro de este proyecto se creará las carpetas y clases respectivas.
 
